@@ -1,0 +1,50 @@
+
+Name : ccx
+AGE : 34
+Train No. : 15454
+Train Name : dfdf
+Seat Number : 1
+Coach Number: S1
+______________________
+Name : scsc
+AGE : 22
+Train No. : 1
+Train Name : fdssfd
+Seat Number : 1
+Coach Number: S1
+______________________
+Name : Vaibhav Tiwari
+AGE : 12
+Train No. : 1
+Train Name : LKO
+Seat Number : 1
+Coach Number: S1
+______________________
+Name : sajsd
+AGE : 32
+Train No. : 2312
+Train Name : fdsfds
+Seat Number : 3
+Coach Number: A1
+______________________
+Name : Vaibhav
+AGE : 18
+Train No. : 13434
+Train Name : gfgf
+Seat Number : 1
+Coach Number: S1
+______________________
+Name : bdjdaf
+AGE : 23
+Train No. : 13223
+Train Name : ewfmjdsf
+Seat Number : 1
+Coach Number: S1
+______________________
+Name : ggttyft
+AGE : 55
+Train No. : 5555
+Train Name : qqqqq
+Seat Number : 1
+Coach Number: S1
+______________________
